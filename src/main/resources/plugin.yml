@@ -1,0 +1,4 @@
+name: LagWarn-Reloaded
+version: '1.0-SNAPSHOT'
+main: com.mcsunnyside.tpsalert.Main
+api-version: 1.18
