@@ -17,7 +17,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitRunnable;
 
-public class Main extends JavaPlugin implements Listener {
+class Main extends JavaPlugin implements Listener {
     private final String name = Bukkit.getServer().getClass().getPackage().getName();
     private final String version;
     private final DecimalFormat format;
